@@ -22,5 +22,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... applying AI into my workflow
 - 💬 Ask me about ... whatever I can help you on 
 - 📫 How to reach me: ... jfaus@fpfempa.es
-- 😄 Pronouns: ..... ¿?¿? 
 - ⚡ Fun fact: ... This has been written by a Biological Intelligence
