@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as teacher on ... FEMPA
 - 🌱 I’m currently learning ... Java Cloud Development and AI
 - 👯 I’m looking to collaborate on ... projects on pedagogic approaches
-- 🤔 I’m looking for help with ... applying IA to my workflow
+- 🤔 I’m looking for help with ... applying AI into my workflow
 - 💬 Ask me about ... whatever I can help you on 
 - 📫 How to reach me: ... jfaus@fpfempa.es
 - 😄 Pronouns: ..... ¿?¿? 
