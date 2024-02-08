@@ -15,11 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-- 🔭 I’m currently working as teacher on ... FEMPA
-- 🌱 I’m currently learning ... Java Cloud Development and AI
-- 👯 I’m looking to collaborate on ... projects on pedagogic approaches
-- 🤔 I’m looking for help with ... applying AI into my workflow
-- 💬 Ask me about ... whatever I can help you on 
-- 📫 How to reach me: ... jfaus@fpfempa.es
-- ⚡ Fun fact: ... This has been written by a Biological Intelligence
+🔭 I’m currently working as a teacher at ... FEMPA.
+🌱 I’m currently learning ... Java Cloud Development and AI.
+👯 I’m looking to collaborate on ... projects involving pedagogical approaches.
+🤔 I’m looking for help with ... integrating AI into my workflow.
+💬 Ask me about ... anything I can assist you with.
+📫 How to reach me: ... jfaus@fpfempa.es
+⚡ Fun fact: ... This has been written by a Biological Intelligence.
